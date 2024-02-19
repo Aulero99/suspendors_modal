@@ -23,7 +23,7 @@ First you will need to install Suspendors, for more details click [here](https:/
 To install `_modal` there are currently 2 options:
 
 - Clone the repo: `https://github.com/Aulero99/suspendors_modal.git`
-- Install with [npm](https://www.npmjs.com/): `npm install suspendors_modal`
+- Install with [npm](https://www.npmjs.com/): `npm install suspendors_modals`
 </p>
 
 <p>
